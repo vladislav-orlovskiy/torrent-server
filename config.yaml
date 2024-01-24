@@ -1,0 +1,4 @@
+download_dir: "/media/content/"
+shell_file: './torrents'
+default_upload_speed: 1000
+default_download_speed: 1000
